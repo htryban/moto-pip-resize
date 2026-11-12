@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Smallest edge a PiP window can be resized to (stock 108dp). -->
+    <dimen name="default_minimal_size_pip_resizable_task">48dp</dimen>
+    <!-- Minimum PiP size as a fraction of the maximum size (stock 0.5 / 0.4). -->
+    <item name="config_pipSystemPreferredMinimumSizePercent" format="float" type="dimen">0.2</item>
+    <item name="config_pipSystemPreferredMinimumSizePercentForSquareDisplay" format="float" type="dimen">0.15</item>
+</resources>

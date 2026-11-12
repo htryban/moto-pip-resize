@@ -1,0 +1,6 @@
+id=moto_pip_resize
+name=PiP Resize Unlock
+version=v1.0
+versionCode=1
+author=trydent
+description=Lets picture-in-picture windows (YouTube etc.) be pinched much smaller than the stock minimum.
